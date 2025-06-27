@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const csvUrl = 'https://raw.githubusercontent.com/theaayushraman/JOSAA-Analysis/main/new_df.csv';
+    const csvUrl = 'https://raw.githubusercontent.com/adityabhawsar1274/JOSAA-Analysis/refs/heads/main/new_df.csv';
     const form = document.getElementById('filterForm');
 
    
